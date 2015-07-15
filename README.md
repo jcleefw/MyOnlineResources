@@ -34,5 +34,5 @@ https://robots.thoughtbot.com/
 https://github.com/apotonick/trailblazer (we’ll be putting this in shortly)
 
 #Other
-AWS (using cloudformation, RDS, S3, ELB, Route53)
-ElasticSearch (now just called ‘elastic’): https://www.elastic.co/
+- AWS (using cloudformation, RDS, S3, ELB, Route53)
+- ElasticSearch (now just called ‘elastic’): https://www.elastic.co/
