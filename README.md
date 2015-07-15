@@ -35,4 +35,5 @@ https://github.com/apotonick/trailblazer (we’ll be putting this in shortly)
 
 #Other
 - AWS (using cloudformation, RDS, S3, ELB, Route53)
+- AWS London https://gist.github.com/jascination/02475b7e18c8fc5cac31
 - ElasticSearch (now just called ‘elastic’): https://www.elastic.co/
