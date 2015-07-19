@@ -21,19 +21,22 @@ SaraSoueidan http://sarasoueidan.com/
   http://sarasoueidan.com/blog/css-graphics/
 
 
-#Testing
+###Testing
 http://rspec.info/
 http://betterspecs.org/
 https://www.youtube.com/watch?v=URSWYvyc42M (Sandy Metz - has a great book too)
 
-#Coding / refactoring
+###Coding / refactoring
 https://www.youtube.com/watch?v=DC-pQPq0acs (Ben Orenstein - from thoughtbot, has other great talks & articles)
 
-#General
+###General
 https://robots.thoughtbot.com/
 https://github.com/apotonick/trailblazer (we’ll be putting this in shortly)
 
-#Other
+###Other
 - AWS (using cloudformation, RDS, S3, ELB, Route53)
 - AWS London https://gist.github.com/jascination/02475b7e18c8fc5cac31
 - ElasticSearch (now just called ‘elastic’): https://www.elastic.co/
+
+### Coffee Scripts
+Cheat sheets - http://learnxinyminutes.com/docs/coffeescript/
