@@ -40,3 +40,4 @@ https://github.com/apotonick/trailblazer (we’ll be putting this in shortly)
 
 ### Coffee Scripts
 Cheat sheets - http://learnxinyminutes.com/docs/coffeescript/
+http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027
