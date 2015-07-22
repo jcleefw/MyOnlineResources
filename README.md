@@ -41,3 +41,16 @@ https://github.com/apotonick/trailblazer (we’ll be putting this in shortly)
 ### Coffee Scripts
 Cheat sheets - http://learnxinyminutes.com/docs/coffeescript/
 http://code.tutsplus.com/tutorials/rocking-out-with-coffeescript--net-17027
+
+### React JS
+https://scotch.io/courses/getting-started-with-facebooks-react-js
+https://facebook.github.io/react/docs/component-api.html
+####Redux
+https://github.com/gaearon/redux
+https://github.com/gaearon/redux/pull/140 - new docs
+https://github.com/gaearon/redux/pull/195 - roadmap to v1.0
+####React-Router
+http://rackt.github.io/react-router/#Link - Link component
+http://rackt.github.io/react-router/#Navigation - To programmatically navigate. Unfortunately this requires binding to context. You can find an example in pages/jobs/form.jsx (look for: transitionTo and contextTypes)
+They're about to release a major upgrade which will change a lot of the API, FYI.
+
