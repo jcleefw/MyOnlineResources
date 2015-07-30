@@ -20,6 +20,8 @@ SaraSoueidan http://sarasoueidan.com/
   - AN INTRODUCTION TO GRAPHICAL EFFECTS IN CSS
   http://sarasoueidan.com/blog/css-graphics/
 
+####Grid system
+http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/
 
 ###Testing
 http://rspec.info/
