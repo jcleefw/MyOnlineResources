@@ -52,5 +52,8 @@ https://github.com/gaearon/redux/pull/195 - roadmap to v1.0
 ####React-Router
 http://rackt.github.io/react-router/#Link - Link component
 http://rackt.github.io/react-router/#Navigation - To programmatically navigate. Unfortunately this requires binding to context. You can find an example in pages/jobs/form.jsx (look for: transitionTo and contextTypes)
+###React-webpack-sass
+http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
+
 They're about to release a major upgrade which will change a lot of the API, FYI.
 
