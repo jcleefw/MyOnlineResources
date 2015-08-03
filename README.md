@@ -63,3 +63,5 @@ http://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-a
 
 They're about to release a major upgrade which will change a lot of the API, FYI.
 
+### Ruby
+http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/
