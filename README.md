@@ -23,6 +23,9 @@ SaraSoueidan http://sarasoueidan.com/
   - FLEXIBLE FUTURE FOR WEB DESIGN WITH FLEXBOX
   http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
 
+  - A VISUAL GUIDE TO CSS3 FLEXBOX PROPERTIES
+  https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties
+
 ####Grid system
 http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/
 
