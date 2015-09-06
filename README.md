@@ -20,6 +20,9 @@ SaraSoueidan http://sarasoueidan.com/
   - AN INTRODUCTION TO GRAPHICAL EFFECTS IN CSS
   http://sarasoueidan.com/blog/css-graphics/
 
+  - FLEXIBLE FUTURE FOR WEB DESIGN WITH FLEXBOX
+  http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/
+
 ####Grid system
 http://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/
 
